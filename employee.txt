@@ -1,0 +1,5 @@
+===========Bank ============
+1|Java Group 3 Bank|123 456 7890
+===========Employee[s] ============
+101|David|david@bank.com1700.0
+102|Peter|peter@bank.com25.0
